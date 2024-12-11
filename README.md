@@ -1,5 +1,5 @@
 ```kotlin
-val ktlni = developer {
+val l4kt = developer {
     about {
         name = "Ini Equere"
     }
